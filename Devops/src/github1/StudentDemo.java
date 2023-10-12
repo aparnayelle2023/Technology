@@ -4,6 +4,7 @@ public class StudentDemo {
 	
 	String name;
 	int rollno;
+	int id;
 	
 
 	public static void main(String[] args) {
